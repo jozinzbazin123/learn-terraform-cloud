@@ -2,7 +2,7 @@ terraform {
 
 /*
   cloud {
-    organization = "jozinzbazin"
+    organization = "org name here"
 
     workspaces {
       name = "learn-terraform-cloud"
